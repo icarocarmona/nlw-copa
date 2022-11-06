@@ -1,1 +1,3 @@
-# nlw-copa
+# NLW COPA
+
+![Home do projeto](home.png)
